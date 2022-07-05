@@ -1,0 +1,10 @@
+<aboutMe>	
+	<fullName>
+		<firstName>Kseniya</firstName>
+		<secondName>Valerievna</secondName>
+		<lastName>Slizen</lastName>
+	</fullName>
+	<age>22</age>
+	<countOfPets>3</countOfPets>
+	<salary>1000</salary>
+</aboutMe>
